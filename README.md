@@ -1,11 +1,15 @@
-# Projekt-Starwars
+# Star Wars Encyclopedia
 
-## Kodstandard
+This project is a school group project focused on learning Vanilla JavaScript by creating a Star Wars encyclopedia, using the Star Wars API. Our primary focus was on mastering basic JavaScript and asynchronous programming.
 
-- Vanilla JavaScript, ingen jQuery
-- Single tics ' '
-- Alla kommentarer och kodnamn ska vara på engelska
-- Camelcase
-- Viktigt med egna filer för de olika delarna av sidan för att undvika merge conflicts
-- Gör commits regelbundet och merga dessa för att minska risken för merge conflicts
-- async/await 
+#### JavaScript 
+#### Asynchronous programming 
+#### Star Wars API
+
+## Run the app in development mode
+
+1. Install the Live Server extension in VS Code
+
+2. Start Live Server by clicking `Go Live`
+
+Open http://localhost:5500 to view it in your browser if it doesn't open automatically.
